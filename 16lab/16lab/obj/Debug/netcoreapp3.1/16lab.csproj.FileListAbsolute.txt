@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.AssemblyInfo.cs
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.exe
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.deps.json
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.runtimeconfig.json
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.runtimeconfig.dev.json
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.dll
+C:\Users\anast\source\repos\16lab\16lab\bin\Debug\netcoreapp3.1\16lab.pdb
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.dll
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.pdb
+C:\Users\anast\source\repos\16lab\16lab\obj\Debug\netcoreapp3.1\16lab.genruntimeconfig.cache
